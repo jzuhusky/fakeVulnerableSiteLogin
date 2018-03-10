@@ -1,0 +1,7 @@
+*.vagrant*
+*.idea*
+*.pyc
+*.swp
+.coverage
+.DS_Store
+env/
